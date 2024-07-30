@@ -1,0 +1,33 @@
+.deployment-options {
+    padding: 20px;
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 4px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    margin-top: 20px; /* Add some spacing above */
+  }
+  
+  .deployment-options .MuiTypography-h6 {
+    margin-bottom: 16px; /* Space between the heading and the form controls */
+  }
+  
+  .deployment-options .MuiFormControl-root {
+    margin-bottom: 16px; /* Space between form controls */
+  }
+  
+  .deployment-options .MuiButton-root {
+    margin-top: 16px; /* Space above the deploy button */
+  }
+  
+  /* Status Message Styling */
+  .deployment-options .deployment-status {
+    margin-top: 10px;
+  }
+  
+  .deployment-options .deployment-status.success {
+    color: green;
+  }
+  
+  .deployment-options .deployment-status.error {
+    color: red;
+  }
+  
