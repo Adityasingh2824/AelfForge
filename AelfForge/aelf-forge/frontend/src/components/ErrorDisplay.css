@@ -1,0 +1,23 @@
+.error-display {
+    margin-top: 20px; /* Add some spacing above the error display */
+}
+
+.error-display .MuiAlert-root {
+    width: 100%; /* Ensure the alert takes up the full width */
+}
+
+.error-display .MuiAlert-icon {
+    color: #d32f2f; /* Red color for the error icon */
+}
+
+.error-display .MuiAlert-message {
+    font-weight: bold;
+}
+
+.error-display .MuiListItem-root {
+    padding: 8px 16px; /* Adjust padding for better readability */
+}
+
+.error-display .MuiListItemText-secondary {
+    color: #757575; /* Slightly lighter color for secondary text (hints) */
+}

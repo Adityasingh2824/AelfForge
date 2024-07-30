@@ -1,0 +1,50 @@
+/* General Styling */
+.App {
+    font-family: 'Roboto', sans-serif; /* Use a clean, readable font */
+    text-align: center; /* Center align main content */
+    margin-top: 2rem; /* Add some top margin for spacing */
+  }
+  
+  .MuiContainer-root {
+    background-color: #fff; /* White background for content area */
+    padding: 30px;
+    border-radius: 8px; /* Slightly rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+  }
+  
+  .MuiGrid-container {
+    margin-bottom: 20px; /* Space between sections */
+  }
+  
+  .MuiTypography-root {
+    margin-bottom: 16px; /* Consistent spacing for typography elements */
+  }
+  
+  /* Specific Component Styling (Optional) */
+  
+  /* Scaffold Form */
+  .scaffold-form { /* You can customize this further in ScaffoldForm.css if needed */
+    /* ... */
+  }
+  
+  /* Code Editor */
+  .code-editor-container { /* You can customize this further in CodeEditor.css if needed */
+    /* ... */
+  }
+  
+  /* Error Display */
+  .error-display { /* You can customize this further in ErrorDisplay.css if needed */
+    /* ... */
+  }
+  
+  /* Deployment Options */
+  .deployment-options { /* You can customize this further in DeploymentOptions.css if needed */
+    /* ... */
+  }
+  
+  /* Loading Indicator (CircularProgress) */
+  .MuiCircularProgress-root {
+    display: block; /* Center the loading indicator */
+    margin: 20px auto; /* Add margin for visual clarity */
+  }
+  

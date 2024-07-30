@@ -1,0 +1,31 @@
+# Compiled contracts
+output/
+
+# Virtual environments
+venv/
+env/
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuration files with sensitive information
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# IDE and OS generated files
+.DS_Store
+Thumbs.db
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Miscellaneous
+.ipynb_checkpoints/   # Jupyter Notebook checkpoints (if you use notebooks)
