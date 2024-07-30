@@ -73,7 +73,7 @@ The toolkit can be enhanced to leverage GCP in several ways:
 2.  **Installation:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+    git clone (https://github.com/Adityasingh2824/AelfForge.git)
     cd <your-repo-name> 
     python -m venv venv
     source venv/bin/activate  # On Linux/macOS
